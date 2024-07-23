@@ -3,11 +3,12 @@
 This project is a simple login form with a glassmorphism effect. It is built using HTML, CSS.
 
 # Toutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/EqHR6ZAfA2I))
 
 # Screenshot
 Here we have project screenshot :
 
+Glassmorphism Login Form
 ![screenshot](login.png)
 
 # Features
