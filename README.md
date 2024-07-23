@@ -1,2 +1,37 @@
-# GlassmorphismLogin-Form
-This project is a simple login form with a glassmorphism effect, built using HTML, CSS, and JavaScript. It features a translucent background, blurred elements, and subtle shadows to achieve a visually appealing glassmorphism effect. The form includes a floating input label animation and validation for username and password.
+# Glassmorphism Login Form
+
+This project is a simple login form with a glassmorphism effect. It is built using HTML, CSS.
+
+# Toutorial is available on youtube channel 
+click on the link to see :- ([Open in Youtube]())
+
+# Screenshot
+Here we have project screenshot :
+
+![screenshot](login.png)
+
+# Features
+
+Glassmorphism effect
+Floating input label animation
+Validation for username and password
+Usage
+
+To use this project, simply clone the repository and open the index.html file in a web browser.
+
+# Requirements
+
+A web browser that supports HTML, CSS, and JavaScript
+
+
+
+# snake.coding
+
+We create a project each 4 days with voting on our <a href="https://youtube.com/@snakecoding_12" target="_blank">Youtube</a> channel.
+You can vote for upcoming projects on our channel **community** page :wink:
+
+
+# Author
+
+snake coding
+
